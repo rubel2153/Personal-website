@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.orange{
+    color: orange;
+}
+.flexible-conainer{
+    display: flex;
+    padding: 5%;
+}
+.half-width{
+    width: 80%;
+    padding: 1%;
+}
+.half-width img{
+    width: 80%;
+    
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10PX 20PX;
+    color: whitesmoke;
+    font-weight: 700;
+    border-radius: 5PX;
+}
+
+    
+
+h1{
+  color: darkcyan;
+}
+p{
+  color: blue cyan;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+ 
+footer p {
+       text-align: center;
+}
